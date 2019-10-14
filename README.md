@@ -1,4 +1,2 @@
-# Proyecto para marcos
-# Este es una etiqueta <h1>
-## Este es una etiqueta <h2>
-###### Este es una etiqueta <h6>
+# Proyecto MyApp
+Este proyecto es una aplicacion que te permite gestionar tus tareas
